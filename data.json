@@ -1,0 +1,17 @@
+[
+  {
+    "NameOfTheHospital": "Believers",
+    "PatientCount": "2000",
+    "HospitalLocation": "wayanad"
+  },
+  {
+    "NameOfTheHospital": "Lakeshore",
+    "PatientCount": "800",
+    "HospitalLocation": "Kochi"
+  },
+  {
+    "NameOfTheHospital": "HUDA",
+    "PatientCount": "50",
+    "HospitalLocation": "Haripad"
+  }
+]
